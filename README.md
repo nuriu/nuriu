@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nuri.
-- 🔥 I'm currently working as a backend software engineer that empowering 6+ apps at Kompanion. 
+- 🔥 I've worked as a backend software engineer that empowering 6+ apps at Kompanion. 
 - 🔭 I’ve worked on global projects at adesso and previously telematics and diagnostics products at Linkas Technology.
 - 📫 How to reach me: nuriu@proton.me
 
