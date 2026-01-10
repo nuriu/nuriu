@@ -9,7 +9,7 @@ I am a Senior Software Engineer at **Kaizen Technology**, developing backend ser
   *(Kaizen GitHub Account: [@nuzunoglu-kaizentech](https://github.com/nuzunoglu-kaizentech))*
 
 - **Stoikk / Kompanion** — *Backend Software Engineer* (2023 – 2024)  
-  Worked on the backend of 6+ web and mobile applications serving internal stakeholderes and directly to the customers.
+  Worked on the backend of 6+ web and mobile applications serving internal stakeholders and directly to the customers.
 
 - **adesso Turkey** — *Software Engineer* (2021 – 2023)  
   Contributed to global .NET-based enterprise projects for international clients.
